@@ -20,7 +20,7 @@ npm run dev
 4. **Release** — Verify the production build and deploy the finished project.
 
 ```
-##MIT License
+## MIT License
 
 Copyright (c) 2026 Arnab Maity
 
